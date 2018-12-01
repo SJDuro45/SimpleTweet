@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.codepath.libraries:android-oauth-handler:1.3.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\android-oauth-handler-1.3.1.aar\e34fe0b30e6b1fce69566575693593a2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\41fc938bcdee40f9630fb66a93dd81f4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1208445978f626ea20beb479aad12137\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3241e56be24d440a505d6b53767f4ce3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\4dd62ccbe039cccae39268bc6b9a2d49\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\405d5cece38192fd45beaec11bec9ea0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\cb3bc40fa2ca3214d564b49b2b570330\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\93794f543912ed34a874be9efda28ccf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\139c606aaa57cf2e8660f50b5d1718ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\b33e610e13527c057c92a038749a4cae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\506dd7966afc14acfd49c313c80cab56\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\1409e76f710299b8a93153560c4ca7dd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1bc91abc751d9608afde19ff19c27971\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\b0d81f63d3ad499000fd46da3eba2613\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\95bb9efa452da0c0c67c881f8822052f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\3f4ce39bb5d80b4d2d91afc28b503da7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\91f2cca957d30a2ab40592afdef152d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\43ced934f8f64cee45361fac4cc79355\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c4398d1f4b5ceeb165b23f065cbf0019\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5ca9e385251e8d8c232a7a3bb05dcbd5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:10:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3241e56be24d440a505d6b53767f4ce3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3241e56be24d440a505d6b53767f4ce3\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\4dd62ccbe039cccae39268bc6b9a2d49\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\4dd62ccbe039cccae39268bc6b9a2d49\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:11:9-35
+activity#com.codepath.apps.restclienttemplate.LoginActivity
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:16:9-35:20
+	android:label
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:17:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:23:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:25:13-34:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:28:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:29:17-78
+	android:name
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:29:27-75
+data
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:31:17-33:62
+	android:host
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:32:21-55
+	android:scheme
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:33:21-59
+activity#com.codepath.apps.restclienttemplate.TimelineActivity
+ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:36:9-63
+	android:name
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml:36:19-51
+uses-sdk
+INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+MERGED from [com.codepath.libraries:android-oauth-handler:1.3.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\android-oauth-handler-1.3.1.aar\e34fe0b30e6b1fce69566575693593a2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:android-oauth-handler:1.3.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\android-oauth-handler-1.3.1.aar\e34fe0b30e6b1fce69566575693593a2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\41fc938bcdee40f9630fb66a93dd81f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\41fc938bcdee40f9630fb66a93dd81f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1208445978f626ea20beb479aad12137\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1208445978f626ea20beb479aad12137\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3241e56be24d440a505d6b53767f4ce3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3241e56be24d440a505d6b53767f4ce3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\4dd62ccbe039cccae39268bc6b9a2d49\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\4dd62ccbe039cccae39268bc6b9a2d49\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\405d5cece38192fd45beaec11bec9ea0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\405d5cece38192fd45beaec11bec9ea0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\cb3bc40fa2ca3214d564b49b2b570330\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\cb3bc40fa2ca3214d564b49b2b570330\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\93794f543912ed34a874be9efda28ccf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\93794f543912ed34a874be9efda28ccf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\139c606aaa57cf2e8660f50b5d1718ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\139c606aaa57cf2e8660f50b5d1718ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\b33e610e13527c057c92a038749a4cae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\b33e610e13527c057c92a038749a4cae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\506dd7966afc14acfd49c313c80cab56\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\506dd7966afc14acfd49c313c80cab56\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\1409e76f710299b8a93153560c4ca7dd\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\1409e76f710299b8a93153560c4ca7dd\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1bc91abc751d9608afde19ff19c27971\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1bc91abc751d9608afde19ff19c27971\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\b0d81f63d3ad499000fd46da3eba2613\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\b0d81f63d3ad499000fd46da3eba2613\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\95bb9efa452da0c0c67c881f8822052f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\95bb9efa452da0c0c67c881f8822052f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\3f4ce39bb5d80b4d2d91afc28b503da7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\3f4ce39bb5d80b4d2d91afc28b503da7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\91f2cca957d30a2ab40592afdef152d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\91f2cca957d30a2ab40592afdef152d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\43ced934f8f64cee45361fac4cc79355\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\43ced934f8f64cee45361fac4cc79355\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c4398d1f4b5ceeb165b23f065cbf0019\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c4398d1f4b5ceeb165b23f065cbf0019\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5ca9e385251e8d8c232a7a3bb05dcbd5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5ca9e385251e8d8c232a7a3bb05dcbd5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spong\Documents\SimpleTweet\SimpleTweet-master\SimpleTweet-master\app\src\main\AndroidManifest.xml
